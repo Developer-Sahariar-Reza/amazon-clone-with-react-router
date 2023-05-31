@@ -1,0 +1,25 @@
+.t-shirt {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid lightblue;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.t-shirt img {
+  height: 250px;
+  border-radius: 15px;
+}
+
+.t-shirt h4,
+p,
+button {
+  margin: 10px 0;
+}
+
+.btn-buy-now {
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
